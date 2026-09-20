@@ -3,7 +3,7 @@ const designs = [
   { id: 3, file: 'assets/cards/card3.png' }, { id: 4, file: 'assets/cards/card4.png' },
   { id: 5, file: 'assets/cards/card5.png' }, { id: 6, file: 'assets/cards/card6.png' },
   { id: 7, file: 'assets/cards/card7.png' }, { id: 8, file: 'assets/cards/card8.png' },
-  { id: 9, file: 'assets/cards/card9.png' }, { id: 10, file: 'assets/cards/card10.jpeg' },
+  { id: 9, file: 'assets/cards/card9.png' }, { id: 10, file: 'assets/cards/card10.png' },
   { id: 11, file: 'assets/cards/card11.png' }, { id: 12, file: 'assets/cards/card12.png' },
   { id: 13, file: 'assets/cards/card13.png' }
 ];
