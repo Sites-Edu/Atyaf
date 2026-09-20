@@ -1,11 +1,11 @@
 const designs = [
-  { id: 1, file: 'assets/cards/card1.jpeg' }, { id: 2, file: 'assets/cards/card2.png' },
+  { id: 1, file: 'assets/cards/card1.png' }, { id: 2, file: 'assets/cards/card2.png' },
   { id: 3, file: 'assets/cards/card3.png' }, { id: 4, file: 'assets/cards/card4.png' },
-  { id: 5, file: 'assets/cards/card5.jpeg' }, { id: 6, file: 'assets/cards/card6.png' },
-  { id: 7, file: 'assets/cards/card7.jpeg' }, { id: 8, file: 'assets/cards/card8.png' },
+  { id: 5, file: 'assets/cards/card5.png' }, { id: 6, file: 'assets/cards/card6.png' },
+  { id: 7, file: 'assets/cards/card7.png' }, { id: 8, file: 'assets/cards/card8.png' },
   { id: 9, file: 'assets/cards/card9.png' }, { id: 10, file: 'assets/cards/card10.jpeg' },
   { id: 11, file: 'assets/cards/card11.png' }, { id: 12, file: 'assets/cards/card12.png' },
-  { id: 13, file: 'assets/cards/card13.jpeg' }
+  { id: 13, file: 'assets/cards/card13.png' }
 ];
 
 const $ = id => document.getElementById(id);
